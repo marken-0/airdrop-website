@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a website created using react and Chakra UI (almost negligible usage). It can Airdrop SOL's to a specified wallet address.
 
 ## Available Scripts
 
